@@ -1,0 +1,8 @@
+{
+  "name": "www.KaamDo.com ",
+  "description": "Apne ghar ka kaam, ab chand clicks mein. Verified home helpers, cleaners, cooks \u0026 skilled artisans across Pakistan with JazzCash \u0026 Easypaisa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
